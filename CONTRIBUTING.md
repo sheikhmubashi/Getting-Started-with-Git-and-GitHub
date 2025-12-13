@@ -9,7 +9,7 @@ We welcome your ideas and contributions! If you'd like to propose a change, plea
 1. Fork the repository.
 2. Create a new branch for your changes.
 3. Make your changes and commit them.
-4. Submit a pull request, describing your changes and why they should be merged.
+4. Submit a pull request, describing your changes and why they should be merged. 
 
 ## Code Review
 
